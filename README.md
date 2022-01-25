@@ -15,9 +15,9 @@ Exploratory Data Analysis perform two main things:
 
 
 Components of EDA:
-Understanding our variables
-Cleaning our dataset
-Analyzing relationships between variables
+- Understanding our variables
+- Cleaning our dataset
+- Analyzing relationships between variables
 
 I used a dataset from here:
 https://www.kaggle.com/datasnaek/youtube-new
